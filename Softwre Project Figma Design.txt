@@ -1,0 +1,16 @@
+Manager Auditor
+
+https://www.figma.com/design/JvxnKTi5rBPmgWLSoPYKMH/manager?node-id=1-89&t=Wu9ApLsqwKxcdu1V-1
+Manager Project
+
+https://www.figma.com/design/JvxnKTi5rBPmgWLSoPYKMH/manager?node-id=11-74&t=Wu9ApLsqwKxcdu1V-1
+Manager Assigment
+
+https://www.figma.com/design/JvxnKTi5rBPmgWLSoPYKMH/manager?node-id=51-729&t=Wu9ApLsqwKxcdu1V-1
+Manager Report
+
+https://www.figma.com/design/JvxnKTi5rBPmgWLSoPYKMH/manager?node-id=51-2069&t=Wu9ApLsqwKxcdu1V-1
+Manager  report details
+
+https://www.figma.com/design/JvxnKTi5rBPmgWLSoPYKMH/manager?node-id=60-598&t=Wu9ApLsqwKxcdu1V-1
+ 
